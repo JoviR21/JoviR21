@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JoviR21
+- 👋 Hi, I’m Jovi Rachman but you can call me Jovi
 - 👀 I’m interested in Game Dev & Front End
 - 🌱 I’m currently learning HTML|CSS|JS|Framework
 - 📫 My Email moopigreek@gmail.com
