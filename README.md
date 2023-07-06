@@ -1,8 +1,7 @@
 - 👋 Hi, I’m JoviR21
 - 👀 I’m interested in Game Dev & Front End
 - 🌱 I’m currently learning HTML|CSS|JS|Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My Email moopigreek@gmail.com
 
 <!---
 JoviR21/JoviR21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
