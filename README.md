@@ -2,6 +2,7 @@
 - 👀 I’m interested in Game Dev & Front End
 - 🌱 I’m currently learning HTML|CSS|JS|Framework
 - 📫 My Email moopigreek@gmail.com
+- 🌐 My Web Portfolio https://jovirachmanwebportfolio.netlify.app/
 
 <!---
 JoviR21/JoviR21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
