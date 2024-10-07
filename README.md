@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jovi Rachman but you can call me Jovi
 - 👀 I’m interested in Game Dev & Front End
-- 🌱 I’m currently learning HTML|CSS|JS|Framework
+- 🌱 I’m currently learning Library Animate | CMS (Sanity & Strapi)
 - 📫 My Email moopigreek@gmail.com
-- 🌐 My Web Portfolio https://jovirachmanwebportfolio.netlify.app/
+- 🌐 My LinkedIn https://www.linkedin.com/in/jovi-rachman-04b089245/
 
 <!---
 JoviR21/JoviR21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
